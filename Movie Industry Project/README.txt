@@ -11,7 +11,3 @@ What are the top 10 most successfull movies with largest gross revenue
 Are there any relationships between budget and gross?
 
 Are there any relationships between company and gross?
-
-
-DASHBOARD DESCRIPTION:
-This dashboard done with Power BI allows visualising movie industry data.We've diplayed differents KPI and Insights such as Top 10 most profitable genres, Movie distriby permgenre, rating and score, ...
