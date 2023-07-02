@@ -8,7 +8,3 @@ What city sold the most product?
 What time should we display advertisemens to maximize the likelihood of customer’s buying product?
 What products are most often sold together?
 What product sold the most? Why do you think it sold the most?
-
-
-DASHBOARD DESCRIPTION:
-This dashboard done with power BI will help visualize the work done previously. We'll display some KPI such as Total quantity ordered, Total sales, but we'll also highlight some insights such as Top 10 best selling products, sales per day, mont, quarter year,...
