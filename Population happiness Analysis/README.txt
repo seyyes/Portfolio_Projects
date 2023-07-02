@@ -14,7 +14,3 @@ Does the level of social support (measured by the "Family" column) affect a coun
 Is there a relationship between freedom and happiness?Are countries with higher levels of freedom more likely to have higher happiness scores?
 
 How does the level of trust in government affect a country's happiness score?
-
-
-DASHBOARD DESCRIPTION:
-This dashboard done with Power BI helps visualising differents KPI and Insights such as Top 10 happiest countries, World wide levels of happiness, correlation between different factor of the study etc.
