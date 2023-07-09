@@ -1,0 +1,3 @@
+This project is about an EDA of a hospital database.
+After creating the database and setting up the constraints, we have created the different tables (Patient, medicament,Medecin, ...)
+Then we have performed different requests...
